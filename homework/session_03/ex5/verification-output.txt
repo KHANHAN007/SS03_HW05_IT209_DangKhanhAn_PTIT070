@@ -1,0 +1,5 @@
+CHƯA CÓ DỮ LIỆU TỪ DROPLET.
+
+Chạy lệnh sau trên Ubuntu Droplet để ghi kết quả thật:
+
+sudo ./verify-my-app.sh
